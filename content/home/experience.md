@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
+  company = "Stanford Natural Language Processing Group"
+  company_url = "https://nlp.stanford.edu/clips/"
+  location = ""
+  date_start = "2020-09-01"
+  date_end = ""
+  description = "Computational linguistics on internet space"
+
+[[experience]]
+  title = "Research Assistant"
   company = "Stanford Vision and Learning Lab (SVL)"
   company_url = "http://svl.stanford.edu/"
   location = ""
